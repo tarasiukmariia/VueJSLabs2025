@@ -1,2 +1,0 @@
-Take screenshots of the running app and add them here before submission.
-Use Vue DevTools to show reactive state and computed values.
